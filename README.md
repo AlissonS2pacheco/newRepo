@@ -1,2 +1,2 @@
 # newRepo
-repositório de teste 2
+estudando repositorios e git.
